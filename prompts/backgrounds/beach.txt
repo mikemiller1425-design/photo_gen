@@ -1,0 +1,10 @@
+# Background: tropical beach — golden hour
+positive=professional fitness photography, same woman same exact body face hair pose, over-shoulder look back at camera, extreme curves, athletic hourglass figure, tropical beach shoreline, turquoise ocean waves, wet sand, golden hour sunlight, gentle sea breeze hair movement, natural skin texture, sharp focus on subject, shallow depth of field, cinematic lighting, 85mm lens, high detail
+negative=lowres, blurry, bad anatomy, deformed, different person, different face, changed pose, indoor, gym, city, watermark, text, cartoon, overcast flat lighting
+denoising_strength=0.40
+cfg_scale=7.5
+steps=32
+sampler=DPM++ 2M Karras
+width=832
+height=1216
+seed=-1

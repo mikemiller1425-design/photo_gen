@@ -1,0 +1,10 @@
+# Luxury penthouse + Nike Pro red
+positive=professional fitness photography, same woman identical body face hair, exact same over-shoulder pose looking back at camera, extreme curves, athletic hourglass figure, wearing red Nike Pro sports bra and red Nike Pro short compression shorts, luxury penthouse interior, floor to ceiling windows city skyline dusk, soft cinematic lighting, natural skin texture, sharp focus, 85mm lens, photorealistic, ultra detailed
+negative=lowres, blurry, bad anatomy, deformed, different person, different face, different pose, outdoor beach, gym, watermark, cartoon, wrong outfit
+denoising_strength=0.40
+cfg_scale=7.5
+steps=32
+sampler=DPM++ 2M Karras
+width=832
+height=1216
+seed=-1

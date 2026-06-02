@@ -1,0 +1,10 @@
+# Outfit: Nike Pro black sports bra + black short shorts
+positive=wearing black Nike Pro sports bra, black Nike Pro short compression shorts, white Nike swoosh logo, Dri-FIT athletic fabric, form fitting, same woman same body face hair pose
+negative=wrong brand logo, dress, jeans, long pants, skirt, different outfit, changed colors, lowres, deformed
+denoising_strength=0.32
+cfg_scale=7.0
+steps=28
+sampler=DPM++ 2M Karras
+width=832
+height=1216
+seed=-1

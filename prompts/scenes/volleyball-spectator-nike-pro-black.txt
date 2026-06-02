@@ -1,0 +1,10 @@
+# BEST STARTER: sand volleyball spectator + Nike Pro black — img2img from baseline gym photo
+positive=professional fitness photography, same woman identical body face hair hairstyle, exact same over-shoulder pose looking back at camera, extreme curves, athletic hourglass figure, wearing black Nike Pro sports bra and black Nike Pro short compression shorts, white Nike swoosh, sand beach volleyball court, sidelines spectator area, volleyball net in soft focus background, sunny golden hour, natural skin texture pores, sharp focus on subject, shallow depth of field, cinematic lighting, shot on Canon EOS R5 85mm f1.4, ultra detailed, photorealistic
+negative=lowres, blurry, bad anatomy, bad hands, deformed, disfigured, different person, different face, different pose, different body proportions, gym interior, mirror selfie, watermark, text, logo overlay, cartoon, anime, 3d render, plastic skin, oversharpened, cross-eyed, extra limbs, long pants, dress, wrong outfit color
+denoising_strength=0.38
+cfg_scale=7.5
+steps=32
+sampler=DPM++ 2M Karras
+width=832
+height=1216
+seed=-1

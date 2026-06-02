@@ -9,6 +9,12 @@ __pycache__/
 *.png
 *.jpg
 *.jpeg
-outputs/
+outputs/*
+!outputs/.gitkeep
 generated/
-models/
+models/*
+!models/.gitkeep
+!models/README.md
+references/*
+!references/.gitkeep
+!references/README.md

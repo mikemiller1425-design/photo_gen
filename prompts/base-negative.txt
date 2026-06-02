@@ -1,0 +1,10 @@
+# Shared negative prompt — sourced by scene presets or use standalone
+positive=
+negative=lowres, blurry, bad anatomy, bad hands, missing fingers, extra fingers, deformed, disfigured, mutated, ugly, duplicate, morbid, watermark, text, logo, signature, cropped, out of frame, worst quality, low quality, jpeg artifacts, cartoon, anime, 3d render, plastic skin, oversaturated, cross-eyed, asymmetric eyes, wrong pose, different person, different face, changed body proportions, flat lighting
+denoising_strength=
+cfg_scale=
+steps=
+sampler=
+width=
+height=
+seed=
