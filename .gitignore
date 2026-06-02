@@ -1,0 +1,12 @@
+# Ignore large model files and generated images
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+__pycache__/
+*.png
+*.jpg
+*.jpeg
+outputs/
+generated/
+models/
