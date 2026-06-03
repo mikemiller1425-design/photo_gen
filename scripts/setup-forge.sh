@@ -77,6 +77,7 @@ if [[ ! -f "$USER_SH" ]] || ! grep -q "photo_gen" "$USER_SH" 2>/dev/null; then
   cat >> "$USER_SH" <<EOF
 
 # --- photo_gen overrides ---
+python_cmd="/opt/homebrew/bin/python3.10"
 export COMMANDLINE_ARGS="\${COMMANDLINE_ARGS} --skip-torch-cuda-test --upcast-sampling --no-half-vae --listen --api"
 # --- end photo_gen ---
 EOF
